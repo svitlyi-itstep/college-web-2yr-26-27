@@ -1,15 +1,27 @@
 `Домашня робота №1`
 
-## Форматування тексту за допомогою HTML та CSS
+## Створення вебсторінки улюбленого твору
 
-За допомогою мов HTML та CSS створити вебсторінки за наданими нижче зображеннями.
+Створити вебсторінку, в якій **розповісти про свій улюблений
+фільм/мультфільм/книгу/серіал/аніме** тощо.
+На сторінці необхідно вказати наступне:
+1. Назва
+2. Тип (фільм, серіал і т.д.) та жанр
+3. Сюжет (коротко описати)
+4. Улюблений персонаж (описати хто та чому)
+5. Загальне враження (що сподобалося/не сподобалося)
 
-<p class="codepen" data-height="" data-pen-title="LA CASA de PAPEL" data-version="2" data-default-tab="html,result" data-slug-hash="ogZWRBp" data-user="fmudqsyk-the-sans" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/editor/fmudqsyk-the-sans/pen/01a0d79b-5e89-7945-bb03-1a6e53160d4a">
-  LA CASA de PAPEL</a> by Андрей Свитлый (<a href="https://codepen.io/fmudqsyk-the-sans">@fmudqsyk-the-sans</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://public.codepenassets.com/embed/index.js"></script>
+Пункти 3, 4 та 5 доповнити зображеннями. Спочатку вставити постер обраного твору. Текст можна взяти із Інтернету або розписати самостійно. 
+
+Форматувати сторінку, додавши у кожен заголовок тег `<h2>`, а кожен абзац тег `<p>`. Важливі моменти виділити за допомогою тегів `<b>`, `<i>`, `<u>` і т.д.
+
+Підібрати кольори для тексту (різні для головного заголовка, вторинних заголовків та основного тексту). Як фон сторінки використовувати зображення (зафіксувати за допомогою `background-attachment: fixed;` ). Для всього тексту зробити окреме одноколірне напівпрозоре тло.
+
+### Приклад сторінки:
+![example 1](images/hw1_i1.png)
+![example 2](images/hw1_i2.png)
+
+Приклад у CodePen: https://codepen.io/editor/fmudqsyk-the-sans/pen/01a0d79b-5e89-7945-bb03-1a6e53160d4a
 
 ---
 
